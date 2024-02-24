@@ -1,10 +1,4 @@
-/**tipos de datos que podemos guardar en variables **/
-// string - cadena de texto
-// Number - numero 
-// las variable que todo el tiempo voy a utlizat va a ser const y let 
-
-
-
+// las variables que todo el tiempo voy a utlizat va a ser const y let 
 var edad = 27; 
 let nombre = 'carlos';
 const correo = 'correo@correo.com';
