@@ -41,6 +41,8 @@ numero -= 5;
 // const resultado  = 10 == 10; // true
 // const resultado  = 10 === '10';
 
+
+// operador terniario 
 const resultado = 7 > 10 ? 'el primer valor es mayor que el segundo' : 'el segundo valor es mayor que el primero ';
 console.log(resultado);
 
