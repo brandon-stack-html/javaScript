@@ -6,3 +6,4 @@ console.log('la persona es ' + nombre + ' tiene ' + edad + ' y es de ' + pais);
 
 console.log(`la persona es ${nombre} tiene ${edad} y vive en ${pais}`)  
 
+
